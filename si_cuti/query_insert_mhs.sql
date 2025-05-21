@@ -1,0 +1,1 @@
+insert into mahasiswa (npm, id_user, id_kajur, nama_mahasiswa,tempat_tanggal_lahir, jenis_kelamin, alamat, agama, angkatan, program_studi, no_hp, email) values ('230102052', 3, 1, 'nana','Cilacap, 2005-02-02', 'Perempuan','Cilacap', 'Islam', '2022', 'Teknik Informatika', '0812345678912', 'nama@gmail.com');
