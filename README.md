@@ -26,7 +26,7 @@ Pembuatan ERD ini menggunakan Draw.IO yang dapat di akses di https://app.diagram
  
  ✅ Riwayat Cuti Mahasiswa
 
-## 🔗 Relasi Antar Tabel dalam ERD**
+## 🔗 Relasi Antar Tabel dalam ERD
 
 ### 1. **`user` ke `mahasiswa`, `kajur`, dan `admin`**
 
