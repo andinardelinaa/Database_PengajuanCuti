@@ -12,6 +12,8 @@ Dengan adanya sistem ini, mahasiswa dapat mengajukan cuti tanpa harus datang lan
 # 📌 ERD sistem Pengajuan Cuti
 ![Pengajuanuti (7)](https://github.com/user-attachments/assets/9cbb55a8-331a-414d-b4de-46043ebe0511)
 
+Pembuatan ERD ini menggunakan Draw.IO yang dapat di akses di https://app.diagrams.net/
+
 ### Fitur Utama:
 
  ✅ Login Mahasiswa & Admin Akademik
