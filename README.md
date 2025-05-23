@@ -9,7 +9,7 @@ LinkedIn: [linkedin.com/in/andinardelina](https://linkedin.com/in/andinardelina)
 Sistem ini memungkinkan mahasiswa untuk mengajukan cuti kuliah secara online.
 Dengan adanya sistem ini, mahasiswa dapat mengajukan cuti tanpa harus datang langsung ke bagian akademik, sehingga lebih praktis, terutama jika alasan pengajuan cuti adalah kondisi kesehatan yang tidak memungkinkan untuk datang ke kampus.
 
-##  ERD sistem Pengajuan Cuti
+# 📌 ERD sistem Pengajuan Cuti
 ![Pengajuanuti (7)](https://github.com/user-attachments/assets/9cbb55a8-331a-414d-b4de-46043ebe0511)
 
 ### Fitur Utama:
@@ -54,7 +54,24 @@ Satu kajur membawahi banyak mahasiswa, tapi satu mahasiswa hanya punya satu kaju
 **Artinya:**
 Seorang mahasiswa hanya bisa mengajukan satu cuti, dan satu engajuan cuti hanya dimiliki satu mahasiswa
 
+# 📌 Membuat Database
+
+Dalam desain database menggunakan Navicat for MySQLm, dapat di unduh di:
+
+https://www.navicat.com/en/download/navicat-for-mysql
+
+langkah-langkah membuat database:
+
+1. Klik kanan pada koneksi aktif database
+2. New Database dengan nama si_cuti
+3. Database berhasil dibuat dan akan muncul di daftar koneksi sebelah kiri.
+
+
 ## Struktur Table
+Membuat table dengan menggunakan Query, dengan cara 
+1. klik kanan pada database
+2. pilih new Query
+   
 ### 1. Query Create tabel user
 
 ```bash
